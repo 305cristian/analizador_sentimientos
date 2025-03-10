@@ -1,0 +1,31 @@
+text,clean_text,vader_scores,compound,result
+¡Amo este nuevo teléfono! La calidad de la cámara es increíble.,¡Amo este nuevo teléfono! La calidad de la cámara es increíble.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Este clima es tan deprimente, solo quiero quedarme en la cama.","Este clima es tan deprimente, solo quiero quedarme en la cama.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¡El servicio al cliente en esta tienda es terrible! Nunca volveré.,¡El servicio al cliente en esta tienda es terrible! Nunca volveré.,"{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.5255}",-0.5255,-1
+Anoche pasé un tiempo increíble en el concierto.,Anoche pasé un tiempo increíble en el concierto.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Me siento tan agotado hoy, necesito dormir más.","Me siento tan agotado hoy, necesito dormir más.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¿Por qué el tráfico siempre es tan malo en esta ciudad? ¡Qué frustrante!,¿Por qué el tráfico siempre es tan malo en esta ciudad? ¡Qué frustrante!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Hice un gran entrenamiento esta mañana, me siento con mucha energía.","Hice un gran entrenamiento esta mañana, me siento con mucha energía.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"La comida de este restaurante es horrible, no puedo creer que gasté dinero aquí.","La comida de este restaurante es horrible, no puedo creer que gasté dinero aquí.","{'neg': 0.322, 'neu': 0.678, 'pos': 0.0, 'compound': -0.6908}",-0.6908,-1
+¡Hoy conseguí un ascenso en el trabajo! El mejor día de mi vida.,¡Hoy conseguí un ascenso en el trabajo! El mejor día de mi vida.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Mi internet sigue desconectándose, qué fastidio.","Mi internet sigue desconectándose, qué fastidio.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Este libro es una obra maestra, ¡lo recomiendo mucho!","Este libro es una obra maestra, ¡lo recomiendo mucho!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"No soporto a mis vecinos, son tan ruidosos por la noche.","No soporto a mis vecinos, son tan ruidosos por la noche.","{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}",-0.296,-1
+¡Hoy compré el auto de mis sueños! Estoy absolutamente emocionado.,¡Hoy compré el auto de mis sueños! Estoy absolutamente emocionado.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Me siento enfermo hoy, espero mejorar pronto.","Me siento enfermo hoy, espero mejorar pronto.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¿Por qué la gente tiene que ser tan grosera? Un poco de amabilidad no haría daño.,¿Por qué la gente tiene que ser tan grosera? Un poco de amabilidad no haría daño.,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.296}",-0.296,-1
+"Pasé un día maravilloso en la playa, ¡tan relajante!","Pasé un día maravilloso en la playa, ¡tan relajante!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Estoy tan nervioso por mi examen de mañana, ¡deséenme suerte!","Estoy tan nervioso por mi examen de mañana, ¡deséenme suerte!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Mi perro es el mejor compañero de todos, siempre me anima.","Mi perro es el mejor compañero de todos, siempre me anima.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Esta nueva actualización arruinó la aplicación, ahora está llena de errores.","Esta nueva actualización arruinó la aplicación, ahora está llena de errores.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¡Finalmente terminé mi proyecto! Estoy tan orgulloso del resultado.,¡Finalmente terminé mi proyecto! Estoy tan orgulloso del resultado.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+Odio cuando mi café se enfría tan rápido.,Odio cuando mi café se enfría tan rápido.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Tuve una conversación profunda con un viejo amigo, me siento nostálgico.","Tuve una conversación profunda con un viejo amigo, me siento nostálgico.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Esta nueva canción está en repetición, ¡me encanta!","Esta nueva canción está en repetición, ¡me encanta!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Me estafaron en línea, me siento tan tonto ahora.","Me estafaron en línea, me siento tan tonto ahora.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Estas vacaciones son exactamente lo que necesitaba, me siento renovado.","Estas vacaciones son exactamente lo que necesitaba, me siento renovado.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¿Por qué todas las tiendas tienen filas tan largas hoy? Qué molesto.,¿Por qué todas las tiendas tienen filas tan largas hoy? Qué molesto.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+¡Mi equipo favorito ganó el campeonato! El mejor día de mi vida.,¡Mi equipo favorito ganó el campeonato! El mejor día de mi vida.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"Quemé mi cena, ahora tengo que pedir comida.","Quemé mi cena, ahora tengo que pedir comida.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0
+"El trabajo ha sido tan estresante últimamente, necesito un descanso.","El trabajo ha sido tan estresante últimamente, necesito un descanso.","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.34}",0.34,1
+"Qué hermoso atardecer, la naturaleza es increíble.","Qué hermoso atardecer, la naturaleza es increíble.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0

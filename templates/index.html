@@ -1,0 +1,30 @@
+{% extends 'main.html' %} {% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-8">
+    <div class="card shadow">
+      <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">Cargar archivo CSV de tweets</h3>
+      </div>
+      <div class="card-body">
+        <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data" class="mb-4">
+          <div class="mb-3">
+            <label for="file" class="form-label">Selecciona un archivo CSV:</label>
+            <input type="file" class="form-control" id="file" name="file" accept=".csv" required />
+            <div class="form-text">El archivo debe contener una columna 'text' con los tweets.</div>
+          </div>
+          <button type="submit" class="btn btn-primary"><i class="fas fa-upload me-2"></i>Cargar y Analizar</button>
+        </form>
+
+        <div class="alert alert-info">
+          <h5><i class="fas fa-info-circle me-2"></i>Instrucciones:</h5>
+          <ol>
+            <li>Carga un archivo CSV que contenga tweets (debe tener una columna llamada 'text').</li>
+            <li>El sistema analizará el sentimiento de cada tweet utilizando VADER.</li>
+            <li>Se mostrarán gráficos y resultados del análisis.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
